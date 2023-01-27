@@ -11,4 +11,4 @@ npm start
 ```
 
 
-อย่าลืมใช่ config กับ token ให้ครบนะครับ enjoy
+อย่าลืมใส่ config กับ token ให้ครบนะครับ enjoy
